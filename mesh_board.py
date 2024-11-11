@@ -1,3 +1,5 @@
+import gmsh
+
 # Initialize GMSH
 gmsh.initialize()
 
